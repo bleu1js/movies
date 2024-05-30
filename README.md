@@ -5,18 +5,12 @@
 
 </head>
 <body>
-
-<style>
+  <style>
 body{
-background-image: url('_a0ea9a0b-cfe1-4968-96a1-e7c7e6378f3f.jpg');
-}
+
+   background-image: url('Picsart_24-05-16_20-56-54-582%20(1).jpg');
+
 </style>
-
-
-
-
-
-
 
 </body>
 
