@@ -1,7 +1,7 @@
 <html>
 <head>
 <title>ab movies</title>
-<h2>i </h2>
+<h2 style="COLOR: bleu">i </h2>
 
 </head>
 <body>
