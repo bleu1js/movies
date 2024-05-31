@@ -6,7 +6,7 @@
 </head>
 <body>
 
-  <a href="https://g.laroza.net/play.php?vid=cb9528c8c"><img src="rrrr.jpg" height="220" width="300"></a>
+  <a href="https://g.laroza.net/play.php?vid=cb9528c8c"><img src="س.webp" height="300" width="400"></a>
   
 
   
