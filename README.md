@@ -15,10 +15,10 @@ body{
 
  background-image: url('mm.PNG');
   .image img{
-height:100%;
+height:200%;
 width:100%;
-border-radius:50%;
-border:10px solid: red;
+
+border:10px solid bleu;
 
 
 </style>
